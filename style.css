@@ -1,0 +1,41 @@
+img.image{
+    /* padding-left: 600px;
+    padding-top: 700px; */
+    width: 250px;
+    height: 450px;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
+
+
+
+body{
+    color: white;
+    font-family:Goudy Old Style;
+    position: relative;
+    }
+    /*universal style*/
+/*     *{
+    color: aqua;
+}
+*/
+h1,h3{
+    color: rgb(255, 255, 255);
+}
+/*class styleing*/
+.hello{
+    padding-left: 300px;
+}
+p.pad{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+/*id style*/
+#mukil{
+    color: brown;
+}
