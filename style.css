@@ -15,7 +15,7 @@ img.image{
 
 
 body{
-    background: rgb(230, 14, 14);
+    background: rgb(0, 0, 0);
     color: white;
     font-family:Goudy Old Style;
     position: relative;
@@ -39,4 +39,16 @@ p.pad{
 /*id style*/
 #mukil{
     color: brown;
+}
+
+
+.grid-container{
+    display: inline;
+    grid-template-columns: auto;
+}
+.grid.otem{
+    column-gap: 20px;
+    background: 1px rgba(rgb(11, 1, 1), rgb(19, 21, 19), rgb(19, 19, 21), alpha);
+    padding: 1px rgba;
+    border: 20px;
 }

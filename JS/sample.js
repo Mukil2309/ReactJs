@@ -192,3 +192,16 @@
 // }
 
 //  Function 
+function fun_name(a,b){
+    console.log(a+b+5+5+"mukil"+5+5)
+
+}
+fun_name(5,5)
+
+
+// undefined method and return method
+function fun_name(a,b){
+    console.log(a+b+5+5+"mukil"+5+5)
+    return a+b+5+5+"mukil"+5+5
+}
+console.log(fun_name(5,5))
