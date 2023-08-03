@@ -2,7 +2,7 @@ img.image{
     /* padding-left: 600px;
     padding-top: 700px; */
     width: 250px;
-    height: 450px;
+    height: 350px;
 }
 
 .hero {
@@ -15,6 +15,7 @@ img.image{
 
 
 body{
+    background: rgb(230, 14, 14);
     color: white;
     font-family:Goudy Old Style;
     position: relative;
